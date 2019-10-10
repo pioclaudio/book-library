@@ -1,0 +1,191 @@
+[
+    {
+        "title": "The Water Dancer (Oprah's Book Club): A Novel",
+        "author": "Ta-nehisi Coates",
+        "numPages": "416",
+        "isbn": "0399590595",
+        "read": true
+    },
+    {
+        "title": "The Institute: A Novel",
+        "author": "Stephen King",
+        "numPages": "576",
+        "isbn": "1982110562",
+        "read": false
+    },
+    {
+        "title": "The Testaments: A Novel",
+        "author": "Margaret Atwood",
+        "numPages": "432",
+        "isbn": "0771009437",
+        "read": true
+    },
+    {
+        "title": "Lethal Agent",
+        "author": "Vince Flynn",
+        "numPages": "384",
+        "isbn": "198213660X",
+        "read": false
+    },
+    {
+        "title": "Where The Crawdads Sing",
+        "author": "Delia Owens",
+        "numPages": "384",
+        "isbn": "0735219095",
+        "read": false
+    },
+    {
+        "title": "The Dutch House: A Novel",
+        "author": "Ann Patchett",
+        "numPages": "352",
+        "isbn": "0062963678",
+        "read": false
+    },
+    {
+        "title": "The Girl Who Lived Twice: A Lisbeth Salander Novel, Continuing Stieg Larsson's Millennium Series",
+        "author": "David Lagercrantz",
+        "numPages": "368",
+        "isbn": "0735233012",
+        "read": false
+    },
+    {
+        "title": "Killer Instinct",
+        "author": "James Patterson",
+        "numPages": "400",
+        "isbn": "0316420298",
+        "read": false
+    },
+    {
+        "title": "The Oracle: The Jubilean Mysteries Unveiled",
+        "author": "Jonathan Cahn",
+        "numPages": "352",
+        "isbn": "1629996297",
+        "read": false
+    },
+    {
+        "title": "Inside Out: A Memoir",
+        "author": "Demi Moore",
+        "numPages": "272",
+        "isbn": "0062049534",
+        "read": false
+    },
+    {
+        "title": "Talking to Strangers: What We Should Know about the People We Don't Know",
+        "author": "Malcolm Gladwell",
+        "numPages": "400",
+        "isbn": "0316478520",
+        "read": false
+    },
+    {
+        "title": "The United States Of Trump: How The President Really Sees America",
+        "author": "Bill O'reilly",
+        "numPages": "320",
+        "isbn": "125023722X",
+        "read": false
+    },
+    {
+        "title": "Over The Top: A Raw Journey To Self-love",
+        "author": "Jonathan Van Ness",
+        "numPages": "288",
+        "isbn": "0062906372",
+        "read": false
+    },
+    {
+        "title": "Know My Name: A Memoir",
+        "author": "Chanel Miller",
+        "numPages": "368",
+        "isbn": "073522370X",
+        "read": false
+    },
+    {
+        "title": "Permanent Record",
+        "author": "Edward Snowden",
+        "numPages": "352",
+        "isbn": "1250237238",
+        "read": false
+    },
+    {
+        "title": "Educated",
+        "author": "Tara Westover",
+        "numPages": "352",
+        "isbn": "1443452483",
+        "read": false
+    },
+    {
+        "title": "Call Sign Chaos: Learning To Lead",
+        "author": "Jim Mattis",
+        "numPages": "320",
+        "isbn": "0812996836",
+        "read": false
+    },
+    {
+        "title": "Year Of The Monkey",
+        "author": "Patti Smith",
+        "numPages": "192",
+        "isbn": "0735279284",
+        "read": false
+    },
+    {
+        "title": "The Ride Of A Lifetime: Lessons Learned From 15 Years As Ceo Of The Walt Disney Company",
+        "author": "Robert Iger",
+        "numPages": "272",
+        "isbn": "0399592091",
+        "read": false
+    },
+    {
+        "title": "The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a Good Life",
+        "author": "Mark Manson",
+        "numPages": "224",
+        "isbn": "0062641549",
+        "read": false
+    },
+    {
+        "title": "Super Attractor: Methods For Manifesting A Life Beyond Your Wildest Dreams",
+        "author": "Gabrielle Bernstein",
+        "numPages": "248",
+        "isbn": "1401957161",
+        "read": false
+    },
+    {
+        "title": "The 5 Love Languages: The Secret to Love that Lasts",
+        "author": "Gary Chapman, Gary",
+        "numPages": "8.5",
+        "isbn": "080241270X",
+        "read": false
+    },
+    {
+        "title": "Dare To Lead: Brave Work. Tough Conversations. Whole Hearts.",
+        "author": "Bren\u00e9 Brown",
+        "numPages": "320",
+        "isbn": "0399592520",
+        "read": false
+    },
+    {
+        "title": "You Are A Badass\u00ae: How to Stop Doubting Your Greatness and Start Living an Awesome Life",
+        "author": "Jen Sincero",
+        "numPages": "256",
+        "isbn": "0762447699",
+        "read": false
+    },
+    {
+        "title": "Bobby At Home: Fearless Flavors From My Kitchen: A Cookbook",
+        "author": "Bobby Flay",
+        "numPages": "256",
+        "isbn": "0385345917",
+        "read": false
+    },
+    {
+        "title": "Everything Is Figureoutable",
+        "author": "Marie Forleo",
+        "numPages": "304",
+        "isbn": "0525534997",
+        "read": false
+    },
+    {
+        "title": "Girl, Wash Your Face: Stop Believing The Lies About Who You Are So You Can Become Who You Were\u2026",
+        "author": "Rachel Hollis",
+        "numPages": "240",
+        "isbn": "1400201659",
+        "read": false
+    }
+]
